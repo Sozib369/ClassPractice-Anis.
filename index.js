@@ -9,6 +9,8 @@ Format the output neatly.
 */
 
 // solution of Challenge 1
+// personal Buget Tracker app
+
 console.log("Personal Budget Tracker");
 console.log("Name : MD SOZIB ISLAM");
 console.log("Income : 50000 Bd");
