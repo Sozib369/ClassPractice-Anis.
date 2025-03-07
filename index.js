@@ -15,4 +15,4 @@ console.log("Personal Budget Tracker");
 console.log("Name : MD SOZIB ISLAM");
 console.log("Income : 50000 Bd");
 console.log("Expenses : 35000");
-console.log("Savings g: "+  (50000-35000)+" Bd");
+console.log("Savings : "+  (50000-35000)+" Bd");
