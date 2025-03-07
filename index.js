@@ -9,7 +9,7 @@ Format the output neatly.
 */
 
 // solution of Challenge 1
-
+console.log("Personal Budget Tracker");
 console.log("Name : MD SOZIB ISLAM");
 console.log("Income : 50000 Bd");
 console.log("Expenses : 35000");
