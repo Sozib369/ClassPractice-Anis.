@@ -11,7 +11,7 @@ single Income amount (number)
 multiple Expense amount (number)
 Remaining balance (calculated)
 Use console.log() to:
-Display the user’s name.
+Display the user’s name.    
 Show the income, expenses, and balance.
 Format the output neatly.
 Add comments to explain calculation
